@@ -1,3 +1,5 @@
 Lorem ipsum
 
 This lab is for CSCI 33308. The professor is Alan Paradise. The semester is Srping of 2017. The operating system being used is ubuntu. The virtual machine being used is VMWare. The laptop being used is a razer blade.
+
+On step #14 I have to edit this file to create changes between the master branch and the new testing-new-files branch.
